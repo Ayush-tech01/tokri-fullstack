@@ -1,6 +1,6 @@
 # Tokri. — Online Grocery Delivery System
 
-A full-stack grocery delivery application built with React, Node.js/Express, and MongoDB. The interface is inspired by traditional Indian mandi markets, using a produce-themed colour palette, hanging price-tag elements, and chalkboard-style offer banners to create a distinct shopping experience....
+A full-stack grocery delivery application built with React, Node.js/Express, and MongoDB. The interface is inspired by traditional Indian mandi markets, using a produce-themed colour palette, hanging price-tag elements, and chalkboard-style offer banners to create a distinct shopping experience...
 
 *Developed as part of an MCA coursework project — see [docs/architecture.md](docs/architecture.md) for
 the full ER diagram, DFDs, and system design documentation.*
